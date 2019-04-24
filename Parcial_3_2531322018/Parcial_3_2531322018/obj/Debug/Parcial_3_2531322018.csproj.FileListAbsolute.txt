@@ -1,0 +1,13 @@
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\bin\Debug\Parcial_3_2531322018.exe.config
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\bin\Debug\Parcial_3_2531322018.exe
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\bin\Debug\Parcial_3_2531322018.pdb
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.Form1.resources
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.Form2.resources
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.MDIParent1.resources
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.exe
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.pdb
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.Form3.resources
+C:\Users\Lab3\Desktop\Parcial_3_2531322018\Parcial_3_2531322018\obj\Debug\Parcial_3_2531322018.Form4.resources
